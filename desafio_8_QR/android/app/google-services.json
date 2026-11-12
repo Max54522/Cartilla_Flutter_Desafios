@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052648314421",
+    "project_id": "desafio-7-firebase",
+    "storage_bucket": "desafio-7-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052648314421:android:1bbb7f3839f83ad7d9c37c",
+        "android_client_info": {
+          "package_name": "com.example.desafio_7_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOar0zGL8uiJWgBNl4FkkVv8iEMAe69A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052648314421:android:2785bc619af1f41ed9c37c",
+        "android_client_info": {
+          "package_name": "com.example.desafio_8_qr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOar0zGL8uiJWgBNl4FkkVv8iEMAe69A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
